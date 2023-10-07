@@ -13,7 +13,7 @@
              4. WOLFENSTEIN 3D                                                
                                                                               
    Hardware: 1. LILYGO T-QT                                                   
-             2. LILYGO T-QT PRO                                               
+             2. LILYGO T-QT PRO (2MB PSRAM)                                              
 ```                                                                              
                                                                               
 
