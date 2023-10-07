@@ -65,7 +65,7 @@
 ### EXPERIMENTAL VERSION:
 
 <p float="left">
-<a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/experimental/microNCAT_MinimalSch.png"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/experimental/microNCAT_MinimalSch.png" height="600" width="800" ></a>
+<a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/experimental/microNCAT_MinimalSch.png"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/experimental/microNCAT_MinimalSch.png" height="480" width="800" ></a>
 
 
 
