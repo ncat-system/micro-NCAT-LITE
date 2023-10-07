@@ -51,14 +51,22 @@
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/9.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/9.jpg?raw=true" height="128" width="160" ></a>
 
 </p>
-
-<p float="left">
   
 ### PRO (non-free) VERSION:
 
+<p float="left">
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/10_PRO.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/10_PRO.jpg?raw=true" height="128" width="160" ></a>
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/11_PRO.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/11_PRO.jpg?raw=true" height="128" width="160" ></a>
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/12_PRO.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/12_PRO.jpg?raw=true" height="128" width="160" ></a>
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/13_PRO.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/13_PRO.jpg?raw=true" height="128" width="160" ></a>
+
+</p>
+
+### EXPERIMENTAL VERSION:
+
+<p float="left">
+<a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/experimental/microNCAT_MinimalSch.png"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/experimental/microNCAT_MinimalSch.png" height="600" width="800" ></a>
+
+
 
 </p>
