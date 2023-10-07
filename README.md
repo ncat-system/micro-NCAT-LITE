@@ -12,9 +12,7 @@ micro NCAT PRO LITE (free version)
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/8.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/8.jpg?raw=true" align="left" height="128" width="160" ></a>
 <a href="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/9.jpg?raw=true"><img src="https://github.com/ncat-system/micro-NCAT-LITE/blob/main/images/9.jpg?raw=true" align="left" height="128" width="160" ></a>
 
-<br>
-<br>
-<br>
+***
 
 ### PRO (non-free) VERSION:
 
